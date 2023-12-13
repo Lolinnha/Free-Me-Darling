@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/scary-forest-90162.mp3-8ba891c40a6e23ae7a4bf3ed38f1eda9.mp3str"
+
+[deps]
+
+source_file="res://sounds/scary-forest-90162.mp3"
+dest_files=[ "res://.import/scary-forest-90162.mp3-8ba891c40a6e23ae7a4bf3ed38f1eda9.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
